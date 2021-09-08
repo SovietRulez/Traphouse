@@ -1,6 +1,7 @@
 # Soviet Traphouse
  This is a modified version of esx_traphouse released here : https://github.com/mrmicheall/esx_traphouse
 
+I was lazy, Theres 2 drawtext. if you want 1 just make it yourself(takes like 2min) I just CBA to do it.
 
 This release is for QBCore framework. 
 
